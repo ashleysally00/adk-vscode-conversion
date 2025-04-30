@@ -21,13 +21,14 @@ You can apply these ideas often, so I thought it was worth noting them here:
 - **Notebook-specific imports** (like `IPython.display`) can usually be removed in VS Code.
 - **File paths** are different — Colab often uses `/content/`, while local scripts should use `os.path` or `pathlib`.
 - In Colab, you run cells one at a time. In VS Code, you typically run the whole script using:
-  ```bash
+```
   python main.py
-``
+```
 
 ### Installing Dependencies in VS Code
 
 Instead of running !pip install in a notebook cell, you can install dependencies from a requirements.txt file like this:
+
 ```
 pip install -r requirements.txt
 ```
