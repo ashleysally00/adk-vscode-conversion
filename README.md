@@ -1,6 +1,6 @@
 # Converting Google’s ADK Agent Team Colab Code to VS Code
 
-Recently, I made a[screencast](https://www.youtube.com/watch?v=9RfT1jJqZZg&t=126s).
+Recently, I made a [screencast](https://www.youtube.com/watch?v=9RfT1jJqZZg&t=126s).
 showing how to run through Google’s ADK agent team example, as shown in their blog post: [Building Multi-Agent Teams with Google's Agent Development Kit](https://google.github.io/adk-docs/tutorials/agent-team/)
 
 
