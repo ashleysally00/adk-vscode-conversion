@@ -14,6 +14,7 @@ While doing that, I came across [Google’s official ADK GitHub repo](https://gi
 ## Key Differences Between Colab and VS Code
 
 Imports, file paths, and how you run the code are a little different outside of Colab.  
+
 You can apply these ideas often, so I thought it was worth noting them here:
 
 - **Colab uses `!pip install` in a cell**, which needs to be re-run if you restart the runtime.
